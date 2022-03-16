@@ -1,0 +1,10 @@
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\bin\Debug\ArrayTransorm.exe.config
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\bin\Debug\ArrayTransorm.exe
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\bin\Debug\ArrayTransorm.pdb
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\obj\Debug\ArrayTransorm.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\obj\Debug\ArrayTransorm.Form1.resources
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\obj\Debug\ArrayTransorm.Properties.Resources.resources
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\obj\Debug\ArrayTransorm.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\obj\Debug\ArrayTransorm.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\obj\Debug\ArrayTransorm.exe
+C:\Users\Filip\source\repos\ArrayTransorm\ArrayTransorm\obj\Debug\ArrayTransorm.pdb
